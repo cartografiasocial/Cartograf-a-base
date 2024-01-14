@@ -1,5 +1,4 @@
-# Cartografia-base
-Guayaquil
+# Cartografia-base Guayaquil 
 La base cartográfica del Cantón Guayaquil juega un papel crucial en su desarrollo y planificación urbana. La cartografía proporciona una representación visual precisa y detallada del territorio, permitiendo a las autoridades locales, planificadores urbanos y ciudadanos tomar decisiones informadas sobre el crecimiento y la gestión de la ciudad. En este artículo, exploraremos la importancia de la base cartográfica en el contexto específico del Cantón Guayaquil, destacando cómo esta herramienta se ha convertido en un pilar fundamental para el progreso y la sostenibilidad de la región.
 Contexto Histórico:
 Para comprender la situación actual, es esencial revisar el contexto histórico de la cartografía en el Cantón Guayaquil. A lo largo de los años, el desarrollo tecnológico ha transformado radicalmente las técnicas cartográficas, desde los mapas tradicionales hasta el uso de tecnologías satelitales y sistemas de información geográfica (SIG). Esta evolución ha permitido una representación más precisa y actualizada del territorio, mejorando la toma de decisiones en todos los niveles.
